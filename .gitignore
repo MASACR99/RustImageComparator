@@ -1,0 +1,4 @@
+# Ignore targets
+/target/*
+Cargo.lock
+test.md
